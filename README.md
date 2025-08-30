@@ -1,10 +1,17 @@
 # Hi there! 👋 I'm Rahul Rathore
+---
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Blockchain+Developer;Problem+Solver;AI+Integration+Enthusiast" alt="Typing SVG" />
+</div>
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Blockchain+Enthusiast;Problem+Solver;AI+Integration+Specialist" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=rahul-rathore786&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-rathore786" />
+  
+  **"Building the future, one line of code at a time"** 🚀
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+---
 
 ## 🎓 About Me
 
@@ -14,6 +21,8 @@
 - 💻 Currently working on **full-stack web development** and **blockchain solutions**
 - 🌱 Learning advanced **React.js, Node.js, and Web3 technologies**
 - 🚀 Passionate about building **decentralized applications** and **AI-powered solutions**
+
+---
 
 ## 🏆 Recent Achievements
 
@@ -25,6 +34,8 @@
 ⚡ Improved website load speed by 57% during internship
 ```
 
+---
+
 ## 💼 Professional Experience
 
 **Full Stack Web Developer** @ Pustakkosh Education Technology *(May - Aug 2024)*
@@ -32,6 +43,8 @@
 - 🔄 Led complete website migration from Ecwid to WordPress
 - 🎨 Optimized design with Elementor
 - ⚡ Boosted website load speed by 57%
+
+---
 
 ## 🚀 Featured Projects
 
@@ -53,6 +66,8 @@
 - **Tech Stack:** Node.js, React, Flutter, MongoDB Atlas, Twilio
 - **Features:** OTP authentication, real-time location tracking, instant alerts
 - **Links:** [GitHub](https://github.com/rahul-rathore786)
+
+---
 
 ## 🛠️ Technical Arsenal
 
@@ -91,6 +106,8 @@
 
 </div>
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -102,6 +119,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-rathore786&theme=tokyonight" alt="rahul-rathore786" />
 </div>
 
+---
+
 ## 🎯 Current Focus
 
 - 🔭 Working on advanced **blockchain applications** and **dApp development**
@@ -109,12 +128,16 @@
 - 💡 Building solutions that solve real-world problems
 - 🤝 Open to collaboration on innovative projects
 
+---
+
 ## 🏅 Certifications & Qualifications
 
 - ✅ **JEE Mains Qualified** - Top 3.1% nationwide
 - ✅ **GATE DA Qualified** - AIR 3,457
 - ✅ **GATE CSE Qualified** - AIR 6,600
 - 🏆 **Hackathon Winner** - IIT Gandhinagar
+
+---
 
 ## 📫 Let's Connect!
 
@@ -125,14 +148,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rahulrathore_786)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-rathore786)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul-rathore786&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-rathore786" />
-  
-  **"Building the future, one line of code at a time"** 🚀
 </div>
 
 ---
